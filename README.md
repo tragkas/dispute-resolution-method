@@ -29,7 +29,7 @@ Interpret the score according to the following grading system:
 - 07-11: Negotiation
 - 12-16: Mediation
 - 17-21: Arbitration
-- 
+
 Why Use This Assessment?
 
 - Tailored Approach: Determine the most suitable dispute resolution method based on individual preferences and the nature of the dispute.
